@@ -23,16 +23,17 @@
     ],
     "students": [
         {
-            "name": "Yabin Zhu",
-            "title": "Phd",
-            "avatarUrl": "https://user-images.githubusercontent.com/22411299/62405775-4c576180-b5d4-11e9-9244-656c1bddff55.jpg",
-            "email": "zhuyabin0726@foxmail.com"
-        },
-        {
             "name": "Lei Liu",
             "avatarUrl": "https://user-images.githubusercontent.com/43487243/62405436-b7526980-b5cf-11e9-9334-12f340369f60.png",
             "email": "1210568677 (at) qq.com"
         }
+        {
+            "name": "Rui Yang",
+            "avatarUrl": "https://user-images.githubusercontent.com/40713720/62406448-8cbbdd00-b5de-11e9-8f1c-ac1b00d9312e.jpg",
+            "email": "yangruiahu (at) foxmail.com"
+        }
+        
+        
         
     ]
 }
